@@ -14,6 +14,8 @@ However, if you wish to get actual prop types in `.vue` imports (for example to 
 
 ## Customize configuration
 
+![img.png](img.png)
+
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
